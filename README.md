@@ -4,7 +4,7 @@ Aplicativo mobile desenvolvido em React-Native, com a finalidade de controle de 
 Possui integração API com Firebase.
 
 Desenvolvido durante o processo seletivo de 2023/2 da Comp Júnior, da Universidade Federal de Lavras - MG,
-por [Otávio Sbampato](https://github.com/otaviosbampato/), e atualizado em Agosto de 2024.
+por [Otávio Sbampato](https://github.com/otaviosbampato/).
 
 ## Etapas para a reprodução
 *É necessário possuir o Node.js v16+ instalado em sua máquina a fim de rodar o projeto.*
